@@ -1,0 +1,44 @@
+.poster {
+	width: 1062px;	
+	height: 509px;
+	margin-left: -53px;
+
+}
+
+.container_24 {
+  	background-color: #6e6e6e;
+}
+
+/*
+*****************
+=header
+*****************
+*/
+header{
+	overflow: hidden;
+}
+
+nav {
+	float: right;
+	background-color: white;
+	padding-top: 20px;
+	margin-right: 60px;
+
+}
+nav li {
+	display: inline;
+	font-size: 14px;
+	margin-left: 130px;
+
+
+	
+
+}
+
+header h1 {
+	width: 135px;
+	height: 30px;
+	font-size: 30px;
+	margin: 70px 60px 72px;
+	background-color: white;
+}
