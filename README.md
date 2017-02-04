@@ -1,3 +1,4 @@
-# front-end by ethanZHY
+# front-end 
 HTML&amp;CSS, PSD
-my first webpage
+My first webpage
+by ethanZHY
